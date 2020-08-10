@@ -1,5 +1,5 @@
 # assignment
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Resume</title>
